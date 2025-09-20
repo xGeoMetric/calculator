@@ -1,4 +1,4 @@
-makefile
+
 Nama file output
 TARGET = calculator
 
